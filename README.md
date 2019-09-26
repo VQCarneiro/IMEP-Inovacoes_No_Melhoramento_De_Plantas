@@ -1,5 +1,4 @@
-﻿<img src="https://user-images.githubusercontent.com/16979085/65687602-03ee7a00-e040-11e9-943a-b6783fa6e8ca.png" heigth = "150" width = "150">
-# Inovações no Melhoramento de Plantas - IMEP
+﻿<img src="https://user-images.githubusercontent.com/16979085/65691889-0523a500-e048-11e9-8245-67f11b1dd603.png">
 
 ---
 O objetivo desse repositório é orientar e auxiliar profissionais e estudantes de graduação e pós-graduação que possuam interesse em Inovações No Melhoramento de Plantas. 
