@@ -1,4 +1,5 @@
 ﻿# Inovações no Melhoramento de Plantas - IMEP
+<img src="https://user-images.githubusercontent.com/16979085/65687602-03ee7a00-e040-11e9-943a-b6783fa6e8ca.png" heigth = "150" width = "150">
 ![logo_fenomica](https://user-images.githubusercontent.com/16979085/65687602-03ee7a00-e040-11e9-943a-b6783fa6e8ca.png)
 ---
 
