@@ -10,7 +10,7 @@ Estamos reunidos com o objetivo de difundir novos conhecimentos no melhoramento 
 Este repositório disponibiliza códigos fontes sobre:
 
 - Inteligência Artificial 
-- Processamento Imagens
+- Processamento de Imagens
 
 Cada uma destas seções disponibiliza apresentações, softwares e rotinas na linguagem Python com o intuito de auxiliar a comunidade. 
 Aqui são encontradas desde rotinas básicas como primeiros passos na linguagem Python assim como processamento de imagens de plantas. 
