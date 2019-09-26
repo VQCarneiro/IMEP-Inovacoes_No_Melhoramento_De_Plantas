@@ -1,11 +1,12 @@
-#############################################################################################
-# Cabeçalho
-# Data: 09/03/2019
-# Horário: 9:30
-# Desenvolvedor: Vinícius Quintão Carneiro
-# Imagens: Abóboras
-# Propietário das imagens: Ronaldo Machado Júnior
-#############################################################################################
+########################################################################################################################
+# Lavras - MG, 26/09/2019, 08:57
+# Desenvolvedor: Vinícius Quintão Carneiro - Professor da Universidade Federal de Lavras - UFLA
+# E-mail: vinicius.carneiro@ufla.br
+# Github: VQCarneiro
+########################################################################################################################
+# Script
+# Como abrir, salvar e apresentar uma imagem
+########################################################################################################################
 # Importar pacotes
 import cv2 # Importa o pacote opencv
 import numpy as np # Importa o pacote numpy
