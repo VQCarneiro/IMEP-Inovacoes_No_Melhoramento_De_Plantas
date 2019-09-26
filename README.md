@@ -1,7 +1,8 @@
 ﻿<img src="https://user-images.githubusercontent.com/16979085/65692206-8844fb00-e048-11e9-9e28-c58563a5464a.PNG">
 
 ---
-O IMEP é um grupo de estudo composto por professores e estudantes do Programa de Genética e Melhoramento de Plantas reunidos com o objetivo de difundir novos conhecimentos no melhoramento genético de plantas.
+O IMEP é um grupo de estudo composto por professores e estudantes do Programa de Genética e Melhoramento de Plantas da Universidade Federal de Lavras - UFLa
+Estamos reunidos com o objetivo de difundir novos conhecimentos no melhoramento genético de plantas.
 
 ---
 ## Descrição
