@@ -1,4 +1,4 @@
-﻿<img src="https://user-images.githubusercontent.com/16979085/65691889-0523a500-e048-11e9-8245-67f11b1dd603.png" height 500>
+﻿<img src="https://user-images.githubusercontent.com/16979085/65691889-0523a500-e048-11e9-8245-67f11b1dd603.png" height = 500>
 
 ---
 O objetivo desse repositório é orientar e auxiliar profissionais e estudantes de graduação e pós-graduação que possuam interesse em Inovações No Melhoramento de Plantas. 
