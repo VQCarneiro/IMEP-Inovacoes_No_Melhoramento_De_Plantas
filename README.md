@@ -1,7 +1,7 @@
 ﻿<img src="https://user-images.githubusercontent.com/16979085/65692206-8844fb00-e048-11e9-9e28-c58563a5464a.PNG">
 
 ---
-O IMEP é um grupo de estudo composto por professores e estudantes do Programa de Genética e Melhoramento de Plantas da Universidade Federal de Lavras - UFLa
+O IMEP é um grupo de estudo composto por professores e estudantes do Programa de Genética e Melhoramento de Plantas da Universidade Federal de Lavras - UFLA.
 Estamos reunidos com o objetivo de difundir novos conhecimentos no melhoramento genético de plantas.
 
 ---
@@ -27,7 +27,8 @@ Esperamos que este repositório auxilie no seu aprendizado.
 ## Responsável
 
 - Vinícius Quintão Carneiro - Professor adjunto da Universidade Federal de Lavras 
-- contato: vinicius.carneiro@ufla.br
+- Contato: vinicius.carneiro@ufla.br
+- Área de Atuação: Genética e MElhoramento do Feijoeiro
 - Lattes: http://lattes.cnpq.br/7418046043420782 
 
 ---
