@@ -1,16 +1,19 @@
 ﻿<img src="https://user-images.githubusercontent.com/16979085/65692206-8844fb00-e048-11e9-9e28-c58563a5464a.PNG">
 
 ---
-O objetivo desse repositório é orientar e auxiliar profissionais e estudantes de graduação e pós-graduação que possuam interesse em Inovações No Melhoramento de Plantas. 
+O IMEP é um grupo de estudo composto por professores e estudantes do Programa de Genética e Melhoramento de Plantas reunidos com o objetivo de difundir novos conhecimentos no melhoramento genético de plantas.
 
 ---
 ## Descrição
 
-Este repositório disponibiliza materiais didáticos oferececidos em cursos e disciplinas por meio de várias seções: 
+Este repositório disponibiliza códigos fontes sobre:
 
+- Inteligência Artificial 
 - Processamento Imagens
 
-Cada uma destas seções disponibiliza apresentações, softwares e rotinas na linguagem Python com o intuito de auxiliar a comunidade. Aqui são encontradas desde rotinas básicas como primeiros passos na linguagem Python assim como processamento de imagens de plantas. Espero que este repositório auxilie no seu aprendizado. 
+Cada uma destas seções disponibiliza apresentações, softwares e rotinas na linguagem Python com o intuito de auxiliar a comunidade. 
+Aqui são encontradas desde rotinas básicas como primeiros passos na linguagem Python assim como processamento de imagens de plantas. 
+Esperamos que este repositório auxilie no seu aprendizado. 
 
 ---
 ## Responsável
