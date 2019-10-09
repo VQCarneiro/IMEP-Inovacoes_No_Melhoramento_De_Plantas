@@ -19,6 +19,7 @@ nome_arquivo = 'exemplo_01.jpg'
 
 img_bgr = cv2.imread(nome_arquivo,1) # Carrega imagem colorida em BGR
 img_cinza = cv2.imread(nome_arquivo,0) # Carrega imagem em escala de cinza
+print(img_cinza)
 lin, col, canais = np.shape(img_bgr)
 print('Dimensão: ' + str(lin) +' x '+ str(col))
 print('Número de Canais: ' + str(canais))
