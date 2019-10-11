@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="428e9ff8-8339-41d0-8427-16a73b87f4be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Cortar_Imagens/exemplo_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/desenhos_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/desenhos_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/desenhos_imagens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/exemplo_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/exemplo_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/imutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/redimensionar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Cortar_Imagens/cropping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Cortar_Imagens/recortar_imagens.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +18,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/redimensionar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <folding>
+                <element signature="e#417#453#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/imutils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,21 +60,26 @@
         <option value="$PROJECT_DIR$/Python/Basico/manipulacao_dados.py" />
         <option value="$PROJECT_DIR$/Python/Basico/basico.py" />
         <option value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Cortar_Imagens/cropping.py" />
+        <option value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/desenhos_imagens.py" />
+        <option value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/desenhos_01.py" />
+        <option value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/desenhos_02.py" />
+        <option value="$PROJECT_DIR$/Processamento Imagens/Redimensionar_Imagens/redimensionar.py" />
+        <option value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/imutils.py" />
+        <option value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/redimensionar.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="979" />
-    <option name="height" value="1049" />
+    <option name="x" value="2118" />
+    <option name="y" value="66" />
+    <option name="width" value="784" />
+    <option name="height" value="840" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -64,40 +96,27 @@
               <item name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" type="b2602c69:ProjectViewProjectNode" />
               <item name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" type="462c0819:PsiDirectoryNode" />
               <item name="Processamento Imagens" type="462c0819:PsiDirectoryNode" />
-              <item name="Processamento" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" type="462c0819:PsiDirectoryNode" />
-              <item name="Processamento Imagens" type="462c0819:PsiDirectoryNode" />
               <item name="Processamentos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" type="462c0819:PsiDirectoryNode" />
-              <item name="Processamento Imagens" type="462c0819:PsiDirectoryNode" />
-              <item name="Processamentos" type="462c0819:PsiDirectoryNode" />
-              <item name="Cortar_Imagens" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" type="462c0819:PsiDirectoryNode" />
-              <item name="Processamento Imagens" type="462c0819:PsiDirectoryNode" />
-              <item name="Processamentos" type="462c0819:PsiDirectoryNode" />
-              <item name="Leitura_Imagens" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Cortar_Imagens" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cliente\Documents\GitHub\IMEP-Inovacoes_No_Melhoramento_De_Plantas\Processamento Imagens\Processamentos" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cliente\Documents\GitHub\IMEP-Inovacoes_No_Melhoramento_De_Plantas\Processamento Imagens\Processamentos\Redimensionar_Imagens" />
+      <recent name="C:\Users\Cliente\Documents\GitHub\IMEP-Inovacoes_No_Melhoramento_De_Plantas\Processamento Imagens\Redimensionar_Imagens" />
+      <recent name="C:\Users\Cliente\Documents\GitHub\IMEP-Inovacoes_No_Melhoramento_De_Plantas\Processamento Imagens\Processamentos\Desenhar_Imagens" />
       <recent name="C:\Users\Cliente\Documents\GitHub\IMEP-Inovacoes_No_Melhoramento_De_Plantas\Processamento Imagens\Processamentos\Cortar_Imagens" />
     </key>
   </component>
@@ -113,70 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cropping">
-    <configuration name="basico" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Basico" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Basico/basico.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="carregar_imagens (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Leitura_Imagens" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Leitura_Imagens/carregar_imagens.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="carregar_imagens" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Processamento Imagens/Processamento" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Processamento Imagens/Processamento/carregar_imagens.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.redimensionar">
     <configuration name="cropping" type="PythonConfigurationType" factoryName="Python">
       <module name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,11 +154,118 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="desenhos_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/desenhos_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desenhos_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/desenhos_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desenhos_imagens" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/desenhos_imagens.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="imutils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/imutils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="redimensionar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/redimensionar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.basico" />
-        <item itemvalue="Python.carregar_imagens (1)" />
-        <item itemvalue="Python.carregar_imagens" />
+        <item itemvalue="Python.redimensionar" />
+        <item itemvalue="Python.imutils" />
+        <item itemvalue="Python.desenhos_02" />
+        <item itemvalue="Python.desenhos_01" />
+        <item itemvalue="Python.desenhos_imagens" />
       </list>
     </recent_temporary>
   </component>
@@ -228,14 +291,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24327628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3281471" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3281075" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -250,29 +313,34 @@
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24327628" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3281075" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Processamento de Imagnes" />
     <option name="LAST_COMMIT_MESSAGE" value="Processamento de Imagnes" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamento/carregar_imagens.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="50" selection-start-line="8" selection-end-line="13" selection-end-column="50" />
-          <folding>
-            <element signature="e#622#658#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Leitura_Imagens/carregar_imagens.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="120" selection-end-line="5" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamento/carregar_imagens.py" />
     <entry file="file://$PROJECT_DIR$/Python/Basico/basico.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -286,6 +354,51 @@
           <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
           <folding>
             <element signature="e#401#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/desenhos_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/desenhos_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" selection-end-line="5" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/desenhos_imagens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="120" selection-end-line="5" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Leitura_Imagens/carregar_imagens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="120" selection-end-line="5" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/imutils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/redimensionar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="e#417#453#0" expanded="true" />
           </folding>
         </state>
       </provider>
