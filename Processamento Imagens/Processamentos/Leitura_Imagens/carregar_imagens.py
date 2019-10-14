@@ -3,6 +3,7 @@
 # Desenvolvedor: Vinícius Quintão Carneiro - Professor da Universidade Federal de Lavras - UFLA
 # E-mail: vinicius.carneiro@ufla.br
 # Github: VQCarneiro
+#tiago
 ########################################################################################################################
 # Script
 # Como abrir, salvar e apresentar uma imagem

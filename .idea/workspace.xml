@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="428e9ff8-8339-41d0-8427-16a73b87f4be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/desenhos_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/desenhos_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/desenhos_imagens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Desenhar_Imagens/exemplo_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/exemplo_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/imutils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/redimensionar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Leitura_Imagens/carregar_imagens.py" beforeDir="false" afterPath="$PROJECT_DIR$/Processamento Imagens/Processamentos/Leitura_Imagens/carregar_imagens.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,14 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/redimensionar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-              <folding>
-                <element signature="e#417#453#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="340">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Leitura_Imagens/carregar_imagens.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -35,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/imutils.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -56,7 +56,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Processamento Imagens/Processamento/carregar_imagens.py" />
-        <option value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Leitura_Imagens/carregar_imagens.py" />
         <option value="$PROJECT_DIR$/Python/Basico/manipulacao_dados.py" />
         <option value="$PROJECT_DIR$/Python/Basico/basico.py" />
         <option value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Cortar_Imagens/cropping.py" />
@@ -66,6 +65,7 @@
         <option value="$PROJECT_DIR$/Processamento Imagens/Redimensionar_Imagens/redimensionar.py" />
         <option value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/imutils.py" />
         <option value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/redimensionar.py" />
+        <option value="$PROJECT_DIR$/Processamento Imagens/Processamentos/Leitura_Imagens/carregar_imagens.py" />
       </list>
     </option>
   </component>
@@ -97,6 +97,13 @@
               <item name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" type="462c0819:PsiDirectoryNode" />
               <item name="Processamento Imagens" type="462c0819:PsiDirectoryNode" />
               <item name="Processamentos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IMEP-Inovacoes_No_Melhoramento_De_Plantas" type="462c0819:PsiDirectoryNode" />
+              <item name="Processamento Imagens" type="462c0819:PsiDirectoryNode" />
+              <item name="Processamentos" type="462c0819:PsiDirectoryNode" />
+              <item name="Leitura_Imagens" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,8 +299,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24327628" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25244498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -379,27 +387,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Leitura_Imagens/carregar_imagens.py">
+    <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/redimensionar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="120" selection-end-line="5" selection-end-column="120" />
+        <state relative-caret-position="340">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/imutils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Redimensionar_Imagens/redimensionar.py">
+    <entry file="file://$PROJECT_DIR$/Processamento Imagens/Processamentos/Leitura_Imagens/carregar_imagens.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-          <folding>
-            <element signature="e#417#453#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
         </state>
       </provider>
     </entry>
